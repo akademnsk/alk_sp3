@@ -1,0 +1,48 @@
+data_CaCO3-C2221
+_audit_creation_date              2013-11-15
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'C2221'
+_symmetry_Int_Tables_number       20
+_symmetry_cell_setting            orthorhombic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z+1/2
+  -x,y,-z+1/2
+  x,-y,-z
+  x+1/2,y+1/2,z
+  -x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  x+1/2,-y+1/2,-z
+_cell_length_a                    5.8108
+_cell_length_b                    7.5889
+_cell_length_c                    3.3803
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+O1     O     0.27060   0.39041   1.21499   0.00000  Uiso   1.00
+C2     C     0.35379   0.00000   0.50000   0.00000  Uiso   1.00
+O3     O     0.00000   0.39677   0.75000   0.00000  Uiso   1.00
+Ca4    Ca    0.00000   0.82128   0.75000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+O1     C2      1.320   6     S
+C2     O1      1.320   6_554 S
+C2     O1      1.320   7_546 S
+C2     O3      1.432   5_545 S
+C2     O3      1.432   6_554 S
+O3     C2      1.432   6     S
+O3     C2      1.432   5_455 S

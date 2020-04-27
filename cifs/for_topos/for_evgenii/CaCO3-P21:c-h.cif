@@ -1,0 +1,46 @@
+data_CaCO3-P21c-high
+_audit_creation_date              2013-11-15
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P21/C'
+_symmetry_Int_Tables_number       14
+_symmetry_cell_setting            monoclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y+1/2,z+1/2
+_cell_length_a                    4.7554
+_cell_length_b                    3.4299
+_cell_length_c                    9.5399
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  106.4664
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.85387   1.01034   0.67671   0.00000  Uiso   1.00
+O2     O     1.38518   0.19087   0.32965   0.00000  Uiso   1.00
+O3     O     0.89872   0.23649   0.30040   0.00000  Uiso   1.00
+O4     O     0.83583   0.28925   0.05709   0.00000  Uiso   1.00
+Ca5    Ca    1.32280   0.19838   0.08743   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     O2      1.316   3_766 S
+C1     O3      1.415   3_766 S
+C1     O3      1.432   4_565 S
+C1     O4      1.314   4_565 S
+O2     C1      1.316   3_766 S
+O3     C1      1.415   3_766 S
+O3     C1      1.432   4_564 S
+O4     C1      1.314   4_564 S

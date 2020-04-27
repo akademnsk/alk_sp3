@@ -1,0 +1,38 @@
+# Created by the Bilbao Crystallographic Server
+# http://www.cryst.ehu.es
+# Date: 05/06/2017 12:36:39
+
+# CONTCAR.our_P21c_40GPa_C-Ca.vasp -- non-magnetic
+
+data_5q2k8mB7
+_audit_creation_date               2017-06-05
+_audit_creation_method             "Bilbao Crystallographic Server"
+_symmetry_Int_Tables_number        14
+#_symmetry_space_group_name_H-M    "P2_1/c1'"
+_cell_length_a                     5.0692
+_cell_length_b                     6.0723
+_cell_length_c                     5.3940
+_cell_angle_alpha                  90.0000
+_cell_angle_beta                   101.6116
+_cell_angle_gamma                  90.0000
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+   1   x,y,z
+   2   -x,y+1/2,-z+1/2
+   3   -x,-y,-z
+   4   x,-y+1/2,z+1/2
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 0.77070 0.69314 0.41472 1.0000
+Ca1 Ca 0.72122 0.38522 0.79827 1.0000
+O1 O 0.03081 0.29947 0.14210 1.0000
+O2 O 0.41685 0.18791 0.52697 1.0000
+O3 O 0.73913 0.01117 0.89624 1.0000
